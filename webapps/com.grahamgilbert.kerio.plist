@@ -14,7 +14,7 @@
 <!--		<string>com.example.mywebapp</string> -->
 	</array>
 	<key>name</key>
-	<string>com.pebbleit.kerio</string>
+	<string>com.grahamgilbert.kerio</string>
 
 	<key>requiredModuleNames</key>
 	<array>		<!-- Apache plugin modules are enabled when webapp is started -->
